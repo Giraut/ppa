@@ -1,1 +1,1 @@
-deb https://giraut.github.io/ppa/ ./
+deb https://raw.githubusercontent.com/Giraut/ppa/master/ ./

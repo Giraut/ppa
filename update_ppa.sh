@@ -3,7 +3,7 @@
 
 ### Parameters
 # Address of the repository
-PPA_ADDR=https://giraut.github.io/ppa/
+PPA_ADDR=https://raw.githubusercontent.com/Giraut/ppa/master/
 
 # Name of the repository
 PPA_NAME=giraut
@@ -22,7 +22,7 @@ fi
 
 # sure we're not being called from some other directory
 # Create the KEY.gpg file
-gpg --armor --export "${EMAIL}" > /path/to/my_ppa/KEY.gpg
+gpg --armor --export "${EMAIL}" > KEY.gpg
 
 # Create the Packages and Packages.gz files
 dpkg-scanpackages --multiversion . > Packages

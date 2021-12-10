@@ -1,0 +1,17 @@
+PPA repository for the following packages:
+
+- [SiRFIDaL](https://github.com/Giraut/SiRFIDaL)
+
+# Adding the repository to your APT sources
+
+```bash
+curl -SsL https://raw.githubusercontent.com/Giraut/ppa/master/KEY.gpg | sudo apt-key add -
+sudo curl -SsL -o /etc/apt/sources.list.d/giraut.list https://raw.githubusercontent.com/Giraut/ppa/master/giraut.list
+sudo apt update
+```
+
+# Installing packages
+
+```bash
+sudo apt install sirfidal
+```
