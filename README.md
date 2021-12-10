@@ -1,6 +1,6 @@
-PPA repository for the following packages:
+# PPA repository for the following packages:
 
-- [SiRFIDaL](https://github.com/Giraut/SiRFIDaL)
+- [SiRFIDaL](https://github.com/Giraut/SiRFIDaL) - Simple RFID authentication for Linux
 
 # Adding the repository to your APT sources
 
