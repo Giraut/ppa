@@ -1,3 +1,16 @@
+Package: python3-pyufr
+Version: 0.3.8
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.7.0b1), python3-serial, python3-websocket, python3-requests
+Filename: ./python3-pyufr-0.3.8-0_all.deb
+Size: 35696
+MD5sum: 8834f67cd11c78852ec356654201c9ff
+SHA1: 85c31911effb332b1e3ce3592fe06699794ce625
+SHA256: 204974ddfb5128ffc13fa8174cf03bbd0057c4fb0731fc4af195edd9d756b143
+Homepage: https://github.com/Giraut/pyuFR
+Description: pyuFR - Pure Python communication class for Digital Logic uFR-series NFC readers
+
 Package: sirfidal
 Version: 1.1.2
 Architecture: all
