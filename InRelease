@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Fri, 10 Dec 2021 09:57:00 +0000
+MD5Sum:
+ 1eee3cbfc693e06dd8ca9d8cac008e64              627 Packages
+ 587fcc305e11bbbddf1ef2f4f081cba2              434 Packages.gz
+ fc59ffabe3f2c43c986371ae277a5eb8               38 Release
+SHA1:
+ 0257b22c300418d97ed3b46973ce493939c2aed4              627 Packages
+ 1677597516eef2ec4e554581c171c589e56fc9f2              434 Packages.gz
+ c12d7b2a654155da15e4a835a778f26af13e1bfa               38 Release
+SHA256:
+ f9121b41531c590b78839eedb2cebcdd462e441cbc44737efc7bad2355378644              627 Packages
+ 679847c94c203b782cddf6bec066da2cdb1db48037fd84abf6f839e6cf8e5d8e              434 Packages.gz
+ 06a9033c8aae80e64a66b8e6d24a415c02ec4ca8d52d71cfdb75ba759df20500               38 Release
+SHA512:
+ a74910fe52b7d43560112f56c4d4ca14de67da71e8d7b943e715ea91168164dbcaa23dcf9b44ce461a77f9726cf448a675ae5af9ef8b24a4b420c2304e74c2c4              627 Packages
+ bc84ad032c90778d2ccb48dd00cd77f5f4d32cda1fb319eaa30130513a948e9a29d79181936b6889bb399390c9ea0bfe6ac64e1cd3a95f66862495a4e70ec224              434 Packages.gz
+ 8306c72499ac5851925b0fbd1038f94faa93f04c787a202c0544d5e17a0f7f47809bb64b9de2d6f27d2a20f46e0206a7ce5c644a2e196954725e09d3876b19a7               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEETX9XSql1M6JGShXQZt9yq8JWvLMFAmGzJGwACgkQZt9yq8JW
+vLNQKxAAqL4Cf6+O4NcAFAGfGmbZv4/N/7ZUoRHWOuJX8uc7v7yoWdM50a4+KyV7
++CwhQZW9faqZWUdZX9eilEHzLnVaOq3ugJkFIM6MBCtBAlzyzlhCVKSVsaqjg2N9
+ToL91K9y2+e+57IqBt1Hi8wLEH5ebMLxJQ4mFuD7+0ybkozwtpcivbXfBTsHtgXs
+4tBjsGcoyK3kkLsQe+bOzWDMsy2wAc+NUCVjACKzXLrwdF2ycdRfWMFexNkLM/cL
+ov3qXHQ8GbHpT5CR/GOw60NC7WhbpkXYZubVPyCS0L7J45qvpVoMNE0QyTjgQG0T
+mZEdNGwws16NbqeUZklpiZIWGnPuonYxu3mD9CQy/72qguZvrQrIhmUf98M5/K97
+UGyJG5kbQiiyINf3FC+kfDF+uXk5fd+mN9Hebf6EfPwKJLIPBPSqEIinXjKQ5mIZ
+Z4vJnGyog14OvoFJiFNWgu5dCPkoygP9MFtrqP5OPvXvrdIEcFVefJT2/YCC6kys
+pP5otuBqTgaEnknZPSHlWsXNp0NjOdtwSYIXbckLAE7IBc2LJ8mDX4PjKwOOJM5+
+lNqdhAvTOk31ftgdOTGCyLK40yhmch5OmngdEzoRNHBmYFsNdOvbzbmFYRdC8t6u
+kWccs19cPauqIyBdBHK89q3Ez0NHMGhEgkzbaR/yWyCTDfr8zxw=
+=pBze
+-----END PGP SIGNATURE-----
