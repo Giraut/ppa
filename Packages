@@ -37,3 +37,16 @@ SHA256: 75d7d773f6919350ebc05a97ab5044b5438c6d3f9eaece91e316a0a831ecb56f
 Homepage: https://github.com/Giraut/SiRFIDaL/
 Description: SiRFIDal - Simple RFID authentication for Linux
 
+Package: sirfidal
+Version: 1.3.0
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.5), python3-psutil, python3-filelock, python3-setproctitle, libpam-python, python3-pyscard, python3-serial, python3-evdev, python3-cryptography, python3-xdo, python3-pyperclip, python3-xlib, python3-tk, pcscd, pcsc-tools, adb, sox
+Filename: ./sirfidal-1.3.0-0_all.deb
+Size: 150168
+MD5sum: 33b02ab49f1da8a07ee00d76db92d501
+SHA1: a0bfff39ed6fd868102b12f76018f5d1844106b5
+SHA256: b5b485c10c2c5eac3abeea8301db0c5fc79f9008a0eb632d50a5a3345ab86cda
+Homepage: https://github.com/Giraut/SiRFIDaL/
+Description: SiRFIDal - Simple RFID authentication for Linux
+
