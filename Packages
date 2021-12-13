@@ -56,10 +56,10 @@ Architecture: all
 Maintainer: Rosco <roskis@runbox.com>
 Depends: python3 (>=3.5), python3-psutil, python3-filelock, python3-setproctitle, libpam-python, python3-pyscard, python3-serial, python3-evdev, python3-cryptography, python3-xdo, python3-pyperclip, python3-xlib, python3-tk, pcscd, pcsc-tools, adb, sox
 Filename: ./sirfidal-1.3.1-0_all.deb
-Size: 151444
-MD5sum: 17ef82cea45285c6dd566182780b184e
-SHA1: 33109e0f85227c8150a3c77177364dbddf3ba3ef
-SHA256: 33a5281b8f2a83656edbe9c79e4b04b35cd4210381f3666010f3a8e75d939a8f
+Size: 150924
+MD5sum: 93bd58c0ddae7f42e849997a363f482d
+SHA1: 7e348b5068114f13e38b2ba351fb65ba27974f4f
+SHA256: 6f14af2a475ae96b4e308083b8d453da0aefb2940e28f9f7483b55c7cc0f3ab6
 Homepage: https://github.com/Giraut/SiRFIDaL/
 Description: SiRFIDal - Simple RFID authentication for Linux
 
