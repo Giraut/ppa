@@ -15,12 +15,12 @@ EMAIL=$(C=base64\ -d;$C<<<Y205emEybHpRSEoxYm1KdmVDNWpiMjBLCg==|$C)
 
 ### Main script
 # Check that we have at least one .deb file in the current directory, to make
+# sure we're not being called from some other directory
 if ! ls *.deb > /dev/null 2> /dev/null; then
   echo "No .deb files in the current directory"
   exit
 fi
 
-# sure we're not being called from some other directory
 # Create the KEY.gpg file
 gpg --armor --export "${EMAIL}" > KEY.gpg
 
