@@ -24,6 +24,19 @@ SHA256: d5741d14215a4f896ad116a81e60c7395fdfda59656d554123001df60a3cc56f
 Homepage: https://github.com/Giraut/pyuFR
 Description: pyuFR - Pure Python communication class for Digital Logic uFR-series NFC readers
 
+Package: python3-pyufr
+Version: 0.4.0
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.7.0b1), python3-serial, python3-websocket, python3-requests
+Filename: ./python3-pyufr-0.4.0-0_all.deb
+Size: 35740
+MD5sum: 4d6b0bd661311f5ddd142d206d95d817
+SHA1: fad85cf87ae0d4b8c21306f4ef3bca7c1151029f
+SHA256: 1a568a1c7c923a3341e77d7cba93f0af3788df0b0724133d7c5bfb6611f4aa58
+Homepage: https://github.com/Giraut/pyuFR
+Description: pyuFR - Pure Python communication class for Digital Logic uFR-series NFC readers
+
 Package: sirfidal
 Version: 1.1.2
 Architecture: all
