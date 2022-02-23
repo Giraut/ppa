@@ -141,3 +141,16 @@ SHA256: fde257e16b2e0dd8d48e98a92e648fa1887cab8600f476cb2fbdf382bc59077a
 Homepage: https://github.com/Giraut/SiRFIDaL/
 Description: SiRFIDal - Simple RFID authentication for Linux
 
+Package: wordle
+Version: 1.0.0
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.7.0b1), hunspell-en-us
+Filename: ./wordle-1.0.0-0_all.deb
+Size: 14644
+MD5sum: a34245dae51e0eef8c945a5c952c2cb4
+SHA1: bc5335a56c03424096800151bcc6c394823d5e90
+SHA256: b1278aca3793b17d4d9bd291e1c15b978b2dd823424ea275dd85845d1abf925d
+Homepage: https://github.com/Giraut/Wordle
+Description: Wordle game for the Unix console
+

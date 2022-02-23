@@ -2,6 +2,7 @@
 
 - [SiRFIDaL](https://github.com/Giraut/SiRFIDaL) - Simple RFID authentication for Linux
 - [pyuFR](https://github.com/Giraut/pyuFR) - Pure Python communication class for Digital Logic uFR-series NFC readers
+- [Wordle](https://github.com/Giraut/Wordle) - Wordle game for the Unix console
 
 # Adding the repository to your APT sources
 
@@ -16,4 +17,5 @@ sudo apt update
 ```bash
 sudo apt install sirfidal
 sudo apt install python3-pyufr
+sudo apt install wordle
 ```
