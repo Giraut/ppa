@@ -167,3 +167,16 @@ SHA256: 204e61d1fda0f29229ca1df078878c80a98951083ff77b07052f9ddf8e28e8d3
 Homepage: https://github.com/Giraut/Wordle
 Description: Wordle game for the Unix console
 
+Package: wordle
+Version: 1.2.0
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.7.0b1), hunspell-en-us
+Filename: ./wordle-1.2.0-0_all.deb
+Size: 65556
+MD5sum: 9dd6591e390743a45dc0c2b13611ea47
+SHA1: 874573d4eea36ee679dc83f481ec61b470712aba
+SHA256: b6815a50cfd8631ac2b27f013714960db1c3652a4b019688da5215d5b84bd1bb
+Homepage: https://github.com/Giraut/Wordle
+Description: Wordle game for the Unix console
+
