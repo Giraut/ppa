@@ -186,10 +186,10 @@ Architecture: all
 Maintainer: Rosco <roskis@runbox.com>
 Depends: python3 (>=3.7.0b1)
 Filename: ./wordle-1.3.0-0_all.deb
-Size: 514108
-MD5sum: b3a5398fd5b4b590c5622147ebb66035
-SHA1: 7163a2281311a031a049446770edf17ea3b77f8a
-SHA256: 47e0207b6d19d877fca75617f968f8391619a404c63e2e780f5b8021344b869a
+Size: 513844
+MD5sum: 32185293f63f5769d85d422ff6510188
+SHA1: ecd948a459da3c3863376f63b7fcd799c7a33e2b
+SHA256: 9eaa22a07bcf57762af67fe7e89d25b13b274f71a62905606781507cf757382c
 Homepage: https://github.com/Giraut/Wordle
 Description: Wordle game for the Unix console
 
