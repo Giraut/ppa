@@ -3,6 +3,7 @@
 - [SiRFIDaL](https://github.com/Giraut/SiRFIDaL) - Simple RFID authentication for Linux
 - [pyuFR](https://github.com/Giraut/pyuFR) - Pure Python communication class for Digital Logic uFR-series NFC readers
 - [Wordle](https://github.com/Giraut/Wordle) - Wordle game for the Unix console
+- [Vivokey Manager](https://github.com/Giraut/vivokey-manager) - Wrapper script for the Yubikey Manager (CLI) utility to use it with the Vivokey OATH applet
 
 # Adding the repository to your APT sources
 
@@ -18,4 +19,5 @@ sudo apt update
 sudo apt install sirfidal
 sudo apt install python3-pyufr
 sudo apt install wordle
+sudo apt install vivokey-manager
 ```

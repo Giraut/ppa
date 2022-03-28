@@ -167,6 +167,19 @@ SHA256: e56adf85ae44448364ff1c5d09d2611f1c648165cc4c60e528ab1cf548827fbb
 Homepage: https://github.com/Giraut/SiRFIDaL/
 Description: SiRFIDal - Simple RFID authentication for Linux
 
+Package: vivokey-manager
+Version: 0.0.1
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: yubikey-manager (>=4.0.7)
+Filename: ./vivokey-manager-0.0.1-0_all.deb
+Size: 14392
+MD5sum: ec2c4eeb36e48845c56e6013edb64c78
+SHA1: e3a145e6fec9130d85854ab80cd67848a06e45a7
+SHA256: 4cac28a2f2c16aecb8f1047795f6b58983867f30c28d62eda708c102177da824
+Homepage: https://github.com/Giraut/vivokey-manager
+Description: Wrapper script for the Yubikey Manager (CLI) utility to use it with the Vivokey OATH applet
+
 Package: wordle
 Version: 1.0.0
 Architecture: all
