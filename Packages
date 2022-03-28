@@ -173,10 +173,10 @@ Architecture: all
 Maintainer: Rosco <roskis@runbox.com>
 Depends: yubikey-manager (>=4.0.7)
 Filename: ./vivokey-manager-0.0.1-0_all.deb
-Size: 14460
-MD5sum: 117b42f184a439bd989cf517ff297255
-SHA1: 9f5a97a0fe194762b15aa0b56610142be40992e7
-SHA256: 5a3f8cb9271729cb70535475865b1906d6ab5f5c53a3a2f5859a0ebd6ae20d32
+Size: 14456
+MD5sum: b24a3e765eba72d58cb7a8d50fe487e1
+SHA1: dad5d964591f6b585b29d020db920d5b8db82635
+SHA256: 687720a25e72b4e3325dfb57aa55a172b8656b9e994b22671f6de08716d6e43d
 Homepage: https://github.com/Giraut/vivokey-manager
 Description: Wrapper script for the Yubikey Manager (CLI) utility to use it with the Vivokey OATH applet
 
