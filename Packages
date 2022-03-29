@@ -199,10 +199,10 @@ Architecture: all
 Maintainer: Rosco <roskis@runbox.com>
 Depends: vivokey-manager, python3 (>=3.5), python3-pyotp, python3-qrcode, libpam-modules
 Filename: ./vivokey-pam-0.0.1-0_all.deb
-Size: 19992
-MD5sum: 22c8c3d6e57189a3bfe403b73102fd4b
-SHA1: 4c4a4ee45d054076ad1d287944944570dbddf7e4
-SHA256: 0b447c939ca5a75caeaf0bafc8184779a39996321b8769641a8f3b88856d6059
+Size: 20000
+MD5sum: ae92ece114c8d8d572dead83319c71ab
+SHA1: b39403ed41790d631161e31c8aff44623fd41aa2
+SHA256: 30fc644428e6563da90c000ffcf9c23a82d3faaf6fcf7924b6d5a073c8efd959
 Homepage: https://github.com/Giraut/vivokey-pam
 Description: PAM module and configuration utility to perform user authentication (1FA or 2FA) using a Vivokey device and the Vivokey OTP applet.
 
