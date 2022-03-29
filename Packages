@@ -193,6 +193,19 @@ SHA256: d7c536fa141e99e3a2dab15a55dcce248d28f29cf16e9db8893aac8cb5ce366e
 Homepage: https://github.com/Giraut/vivokey-manager
 Description: Wrapper script for the Yubikey Manager (CLI) utility to use it with the Vivokey OATH applet
 
+Package: vivokey-pam
+Version: 0.0.1
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: vivokey-manager, python3 (>=3.5), python3-pyotp, python3-qrcode, libpam-modules
+Filename: ./vivokey-pam-0.0.1-0_all.deb
+Size: 19992
+MD5sum: 22c8c3d6e57189a3bfe403b73102fd4b
+SHA1: 4c4a4ee45d054076ad1d287944944570dbddf7e4
+SHA256: 0b447c939ca5a75caeaf0bafc8184779a39996321b8769641a8f3b88856d6059
+Homepage: https://github.com/Giraut/vivokey-pam
+Description: PAM module and configuration utility to perform user authentication (1FA or 2FA) using a Vivokey device and the Vivokey OTP applet.
+
 Package: wordle
 Version: 1.0.0
 Architecture: all
