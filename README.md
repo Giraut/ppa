@@ -3,7 +3,7 @@
 - [SiRFIDaL](https://github.com/Giraut/SiRFIDaL) - Simple RFID authentication for Linux
 - [pyuFR](https://github.com/Giraut/pyuFR) - Pure Python communication class for Digital Logic uFR-series NFC readers
 - [Wordle](https://github.com/Giraut/Wordle) - Wordle game for the Unix console
-- [Vivokey Manager](https://github.com/Giraut/vivokey-manager) - Wrapper script for the Yubikey Manager (CLI) utility to use it with the Vivokey OATH applet
+- [Vivokey Manager](https://github.com/Giraut/vivokey-manager) - Wrapper script for the Yubikey Manager (CLI) utility to use it with the Vivokey OTP applet
 - [Vivokey PAM](https://github.com/Giraut/vivokey-pam) - PAM module and configuration utility to perform user authentication (1FA or 2FA) using a Vivokey device and the Vivokey OTP applet
 
 # Adding the repository to your APT sources
