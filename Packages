@@ -167,6 +167,19 @@ SHA256: e56adf85ae44448364ff1c5d09d2611f1c648165cc4c60e528ab1cf548827fbb
 Homepage: https://github.com/Giraut/SiRFIDaL/
 Description: SiRFIDal - Simple RFID authentication for Linux
 
+Package: vivokey-codes
+Version: 0.0.1
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: vivokey-manager, python3 (>=3.5), python3-gi
+Filename: ./vivokey-codes-0.0.1-0_all.deb
+Size: 22752
+MD5sum: 2917130ea20795c8c29b2db1c468946f
+SHA1: 4295b514c861ec597bc5e83d6a76536b489ce4fa
+SHA256: 143993d088c1395a91ee5706494b730b218a9fbb716b17ae5d9783c688a79ed9
+Homepage: https://github.com/Giraut/vivokey-codes
+Description: GTK Authenticator to read TOTP codes from a Vivokey OTP applet, display them and copy them into the clipboard.
+
 Package: vivokey-manager
 Version: 0.0.1
 Architecture: all
