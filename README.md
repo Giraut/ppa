@@ -5,6 +5,7 @@
 - [Wordle](https://github.com/Giraut/Wordle) - Wordle game for the Unix console
 - [Vivokey Manager](https://github.com/Giraut/vivokey-manager) - Wrapper script for the Yubikey Manager (CLI) utility to use it with the Vivokey OTP applet
 - [Vivokey PAM](https://github.com/Giraut/vivokey-pam) - PAM module and configuration utility to perform user authentication (1FA or 2FA) using a Vivokey device and the Vivokey OTP applet
+- [Vivokey Codes](https://github.com/Giraut/vivokey-codes) - GTK Authenticator to read TOTP codes from a Vivokey OTP applet, display them and copy them into the clipboard
 
 # Adding the repository to your APT sources
 
@@ -22,4 +23,5 @@ sudo apt install python3-pyufr
 sudo apt install wordle
 sudo apt install vivokey-manager
 sudo apt install vivokey-pam
+sudo apt install vivokey-codes
 ```
