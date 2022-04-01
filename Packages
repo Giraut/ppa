@@ -206,6 +206,19 @@ SHA256: d7c536fa141e99e3a2dab15a55dcce248d28f29cf16e9db8893aac8cb5ce366e
 Homepage: https://github.com/Giraut/vivokey-manager
 Description: Wrapper script for the Yubikey Manager (CLI) utility to use it with the Vivokey OATH applet
 
+Package: vivokey-manager
+Version: 0.0.3
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: yubikey-manager (>=4.0.7)
+Filename: ./vivokey-manager-0.0.3-0_all.deb
+Size: 14540
+MD5sum: 18eeccd744ec167df66ca766a9635534
+SHA1: 53d1d51ed4003f5efc58709234695ac22e8188f9
+SHA256: 011b193bc18531accac9eccad4ef5e804e1cb41c58a8c90f05d1ea0ba285b5eb
+Homepage: https://github.com/Giraut/vivokey-manager
+Description: Wrapper script for the Yubikey Manager (CLI) utility to use it with the Vivokey OATH applet
+
 Package: vivokey-pam
 Version: 0.0.1
 Architecture: all
