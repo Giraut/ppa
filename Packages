@@ -199,10 +199,10 @@ Architecture: all
 Maintainer: Rosco <roskis@runbox.com>
 Depends: vivokey-manager, python3 (>=3.5), python3-gi
 Filename: ./vivokey-codes-0.0.3-0_all.deb
-Size: 23592
-MD5sum: fd47485d35835a6078aec72d1e77c6ec
-SHA1: 7a3f5eef2e26cbe9d13dc49963c4fd8e56602e9b
-SHA256: 624e4004c63a30b26812e051c043f7feedc5b48d198f782b649c7f8c2dafc848
+Size: 23484
+MD5sum: 229f695fcb34bbc3f9cb2c70545fa3da
+SHA1: ca45f864d7ad052cda3615d3ae489aa1422d43fc
+SHA256: 325310d0747d56d14d97f7a049b2fafa29b554db98ea967f0d84814cf3ba28a8
 Homepage: https://github.com/Giraut/vivokey-codes
 Description: GTK Authenticator to read TOTP codes from a Vivokey OTP applet, display them and copy them into the clipboard.
 
