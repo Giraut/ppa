@@ -167,6 +167,19 @@ SHA256: e56adf85ae44448364ff1c5d09d2611f1c648165cc4c60e528ab1cf548827fbb
 Homepage: https://github.com/Giraut/SiRFIDaL/
 Description: SiRFIDal - Simple RFID authentication for Linux
 
+Package: t4t-ndef
+Version: 0.0.1
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.5), python3-pyscard, pcscd
+Filename: ./t4t-ndef-0.0.1-0_all.deb
+Size: 16728
+MD5sum: dd2659e4ab09c9640a4ead9501879dac
+SHA1: bd4c501297b374bb288292f650d80521fae7f035
+SHA256: 70a9b9a7d983cb808c0d5b7049ec0f83dc2faadae14cf47db5d8567bc2da5fc0
+Homepage: https://github.com/Giraut/t4t-ndef
+Description: Utility to read or write NDEF data to/from a NFC forum type 4 tag using PC/SC
+
 Package: vivokey-codes
 Version: 0.0.1
 Architecture: all
