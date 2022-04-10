@@ -180,6 +180,19 @@ SHA256: 70a9b9a7d983cb808c0d5b7049ec0f83dc2faadae14cf47db5d8567bc2da5fc0
 Homepage: https://github.com/Giraut/t4t-ndef
 Description: Utility to read or write NDEF data to/from a NFC forum type 4 tag using PC/SC
 
+Package: t4t-ndef
+Version: 0.0.2
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.5), python3-pyscard, pcscd
+Filename: ./t4t-ndef-0.0.2-0_all.deb
+Size: 16796
+MD5sum: 3fc62c598902c0fdf879b6dfb5259c82
+SHA1: fd8f78e22f77b12957b723df1b44d7b892ce204b
+SHA256: 2b25587f3141156e526bdf64eb7c50365dd8667b2cd4ffe6a4127640b1211afd
+Homepage: https://github.com/Giraut/t4t-ndef
+Description: Utility to read or write NDEF data to/from a NFC forum type 4 tag using PC/SC
+
 Package: vivokey-codes
 Version: 0.0.1
 Architecture: all
