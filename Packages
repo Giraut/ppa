@@ -11,6 +11,19 @@ SHA256: 63b56c818b22d3a23d320e1db96179b895dfe86f9f794cebf3d343b87b5f1213
 Homepage: https://github.com/Giraut/t4t-ndef
 Description: Utility to read or write NDEF data to/from a NFC forum type 2 or type 4 tag using PC/SC
 
+Package: pcsc-ndef
+Version: 0.0.2
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.5), python3-pyscard, pcscd
+Filename: ./pcsc-ndef-0.0.2-0_all.deb
+Size: 18052
+MD5sum: db3b4b155ae41b7d39863325ad1cb917
+SHA1: e76d0cbd0eaed4ba49f49f509fa5f35e94277dcd
+SHA256: 0232270a85d1061e14c0bc6f9c289b4cb1737f7f94c2e0bcc9549a041dfe89d5
+Homepage: https://github.com/Giraut/t4t-ndef
+Description: Utility to read or write NDEF data to/from a NFC forum type 2 or type 4 tag using PC/SC
+
 Package: python3-pyufr
 Version: 0.3.8
 Architecture: all
