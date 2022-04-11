@@ -6,7 +6,7 @@
 - [Vivokey Manager](https://github.com/Giraut/vivokey-manager) - Wrapper script for the Yubikey Manager (CLI) utility to use it with the Vivokey OTP applet
 - [Vivokey PAM](https://github.com/Giraut/vivokey-pam) - PAM module and configuration utility to perform user authentication (1FA or 2FA) using a Vivokey device and the Vivokey OTP applet
 - [Vivokey Codes](https://github.com/Giraut/vivokey-codes) - GTK Authenticator to read TOTP codes from a Vivokey OTP applet, display them and copy them into the clipboard
-- [T4T NDEF](https://github.com/Giraut/t4t-ndef) - Utility to read or write NDEF data to/from a NFC forum type 4 tag using PC/SC
+- [PC/SC NDEF](https://github.com/Giraut/pcsc-ndef) - Utility to read or write NDEF data to/from a NFC forum type 2 or type 4 tag using PC/SC
 
 # Adding the repository to your APT sources
 
@@ -25,5 +25,5 @@ sudo apt install wordle
 sudo apt install vivokey-manager
 sudo apt install vivokey-pam
 sudo apt install vivokey-codes
-sudo apt install t4t-ndef
+sudo apt install pcsc-ndef
 ```
