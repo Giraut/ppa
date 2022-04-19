@@ -700,6 +700,19 @@ SHA256: 5bfec8044062f6ae0ffbd5b80b82df5004c8efbb4ec97a4ed0447696c5ee786b
 Homepage: https://github.com/Giraut/vivokey-pam
 Description: PAM module and configuration utility to perform user authentication (1FA or 2FA) using a Vivokey device and the Vivokey OTP applet.
 
+Package: vivokey-pam
+Version: 0.5.0
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.5), python3-qrcode, python3-cryptography, python3-pyscard, pcscd, libpam-modules
+Filename: ./vivokey-pam-0.5.0-0_all.deb
+Size: 25888
+MD5sum: 30d4cf946dda0c9a4e9a81d0702074ea
+SHA1: c6c1cf2d1a80e3c268752b0f8e71d5157c4f0fae
+SHA256: 6f4e48d073cee5b46488e79ec97378e9689fbd3cedaeca2ae89d2a88e2584fb7
+Homepage: https://github.com/Giraut/vivokey-pam
+Description: PAM module and configuration utility to perform user authentication (1FA or 2FA) using a Vivokey or Yubikey OTP applet.
+
 Package: wordle
 Version: 1.0.0
 Architecture: all
