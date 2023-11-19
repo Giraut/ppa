@@ -544,6 +544,19 @@ SHA256: 3c9e8f40eb944917725f78bcea522bb350e670c9d64dfc5e9f70451095d04639
 Homepage: https://github.com/Giraut/vivokey-codes
 Description: GTK Authenticator to read TOTP codes from a Vivokey or Yubikey OTP applet, display them and copy them into the clipboard.
 
+Package: vivokey-codes
+Version: 0.6.0
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.5), python3-gi, python3-setproctitle, python3-cryptography, python3-pyscard, pcscd
+Filename: ./vivokey-codes-0.6.0-0_all.deb
+Size: 29120
+MD5sum: 6ef35d7706dd9bdae8a48c49ed16f129
+SHA1: 683a4106c6d4683f9cdad21a8970fa72b295fd36
+SHA256: 7af5a67ba5052891ad81b55b46427ad61320ea92413ff724690e2d707ed911f3
+Homepage: https://github.com/Giraut/vivokey-codes
+Description: GTK Authenticator to read TOTP codes from a Vivokey or Yubikey OTP applet, display them and copy them into the clipboard.
+
 Package: vivokey-manager
 Version: 0.0.1
 Architecture: all
