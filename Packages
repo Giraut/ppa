@@ -1,3 +1,16 @@
+Package: mnt-hotkey-shutdown
+Version: 0.0.1
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.5), python3-setproctitle, python3-evdev, systemd-sysv
+Filename: ./mnt-hotkey-shutdown-0.0.1-0_all.deb
+Size: 102216
+MD5sum: 32a292107616603d9408ffcbb7cff8cd
+SHA1: 0c0412d4302ae5344f35675a055781169e0cb6e1
+SHA256: 556004e7f032cd1cfa696814c0b3ba9fa6949f93d48e8043b44af52af2eee6f0
+Homepage: https://github.com/Giraut/mnt_hotkey_shutdown/
+Description: MNT hotkey shutdown service
+
 Package: pcsc-ndef
 Version: 0.0.1
 Architecture: all
