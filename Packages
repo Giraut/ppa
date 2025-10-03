@@ -11,6 +11,19 @@ SHA256: f2991642a058f1174f171c0ee3da953025594b9f535fe92ae7b83db397954cd8
 Homepage: https://github.com/Giraut/mnt_hotkey_shutdown/
 Description: MNT hotkey shutdown service
 
+Package: mnt-hotkey-shutdown
+Version: 0.0.2
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.5), python3-setproctitle, python3-evdev, systemd-sysv
+Filename: ./mnt-hotkey-shutdown-0.0.2-0_all.deb
+Size: 101752
+MD5sum: b09676f14b41ca1a141eb80ef900bd57
+SHA1: f940f5d76f1b6bb703ee46e23db3d828c55d7031
+SHA256: 4814eadd349f6173b5952a0fe285405b95f297b55333aae3f807ae2a0f95ec64
+Homepage: https://github.com/Giraut/mnt_hotkey_shutdown/
+Description: MNT hotkey shutdown service
+
 Package: mnt-reform-keyboard-backlight-rainbow
 Version: 0.0.1
 Architecture: all
