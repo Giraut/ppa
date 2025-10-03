@@ -11,6 +11,19 @@ SHA256: f2991642a058f1174f171c0ee3da953025594b9f535fe92ae7b83db397954cd8
 Homepage: https://github.com/Giraut/mnt_hotkey_shutdown/
 Description: MNT hotkey shutdown service
 
+Package: mnt-reform-keyboard-backlight-rainbow
+Version: 0.0.1
+Architecture: all
+Maintainer: Rosco <roskis@runbox.com>
+Depends: python3 (>=3.5), python3-setproctitle, systemd-sysv
+Filename: ./mnt-reform-keyboard-backlight-rainbow-0.0.1-0_all.deb
+Size: 365656
+MD5sum: 3eedb043901f86512629ae5e9efffd3f
+SHA1: d163c29a6d9f55c4178872cdbf9ac1eec22329fe
+SHA256: 419f43974399094a3a32a517f75cdd6f40fabbd37b1c7d2bb6e6f0fd52b97b09
+Homepage: https://github.com/Giraut/mnt_reform_keyboard_backlight_rainbow/
+Description: MNT Reform keyboard backlight rainbow
+
 Package: pcsc-ndef
 Version: 0.0.1
 Architecture: all

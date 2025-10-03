@@ -8,6 +8,7 @@
 - [Vivokey Codes](https://github.com/Giraut/vivokey-codes) - GTK Authenticator to read TOTP codes from a Vivokey OTP applet, display them and copy them into the clipboard
 - [PC/SC NDEF](https://github.com/Giraut/pcsc-ndef) - Utility to read or write NDEF data to/from a NFC forum type 2 or type 4 tag using PC/SC
 - [MNT hotkey shutdown](https://github.com/Giraut/mnt_hotkey_shutdown) - A small program and systemd service to shut down a MNT laptop unconditionally with a keyboard key combination
+- [MNT Reform keyboard backlight rainbow](https://github.com/Giraut/mnt_reform_keyboard_backlight_rainbow) - A small program and systemd service to create a rainbow animation with the backlight LEDs on a MNT Reform laptop
 
 # Adding the repository to your APT sources
 
@@ -28,4 +29,5 @@ sudo apt install vivokey-pam
 sudo apt install vivokey-codes
 sudo apt install pcsc-ndef
 sudo apt install mnt-hotkey-shutdown
+sudo apd install mnt-reform-keyboard-backlight-rainbow
 ```
