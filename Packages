@@ -30,10 +30,10 @@ Architecture: all
 Maintainer: Rosco <roskis@runbox.com>
 Depends: python3 (>=3.5), python3-setproctitle, systemd-sysv
 Filename: ./mnt-reform-keyboard-backlight-rainbow-0.0.1-0_all.deb
-Size: 365656
-MD5sum: 3eedb043901f86512629ae5e9efffd3f
-SHA1: d163c29a6d9f55c4178872cdbf9ac1eec22329fe
-SHA256: 419f43974399094a3a32a517f75cdd6f40fabbd37b1c7d2bb6e6f0fd52b97b09
+Size: 365676
+MD5sum: a24b46f36ff8f3c90df2b15f364fd80a
+SHA1: d12dc953f9fa06737f29b2c776e6a73c7d85a1ad
+SHA256: 2c78fa60488d5f06d428d3593ef730b002531e0b46c9e04126272bca30c59f9c
 Homepage: https://github.com/Giraut/mnt_reform_keyboard_backlight_rainbow/
 Description: MNT Reform keyboard backlight rainbow
 
